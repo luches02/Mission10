@@ -1,0 +1,6 @@
+@APImish10_HostAddress = http://localhost:5032
+
+GET {{APImish10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
